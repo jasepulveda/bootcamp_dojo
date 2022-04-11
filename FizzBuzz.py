@@ -1,8 +1,7 @@
-# Título: Cálculo Hipoteca
+# Título: Ejercicio FizzBuzz
 # Autor: Jaime Sepúlveda
 # [Bootcamp Data Sciente - Coding Dojo]
 
-TITULO = " FizzBuzz "
 
 for i in range(1,31):
     if i % 3 == 0 and i % 5 == 0:
