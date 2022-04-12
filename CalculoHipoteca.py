@@ -1,6 +1,6 @@
 # Título: Cálculo Hipoteca
 # Autor: Jaime Sepúlveda
-# [Bootcamp Data Sciente - Coding Dojo]
+# [Bootcamp Data Science - Coding Dojo]
 
 TITULO = " Cálculo de Pago Hipoteca "
 p = 400000
